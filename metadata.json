@@ -1,0 +1,5 @@
+{
+  "name": "ScriptToBoard AI",
+  "description": "Professional AI-powered storyboard generator that transforms movie scripts into visual sequences using Gemini 3 Pro and high-resolution image generation.",
+  "requestFramePermissions": []
+}
